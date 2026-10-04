@@ -1,0 +1,4 @@
+ask-my-notes/.env
+ask-my-notes/venv/
+ask-my-notes/chroma_db/
+ask-my-notes/__pycache__/
